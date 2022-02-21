@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+table,td{
+  border:1px solid red;
+  width: 200px;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+   
+} 
+body{
+  background-color:cadetblue;
+  color: green;
+} 
+button{
+  background-color: chocolate;
+  color: brown;
+  top:auto;
+  width:150px;
+  height:50px;
+}
